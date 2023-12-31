@@ -15,14 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/5988e0467dd944fabaae865dca026f12">
-      <p>Prework - IOS101 | Intro to iOS Development | CodePath Courses - 31 December 2023 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/5988e0467dd944fabaae865dca026f12">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5988e0467dd944fabaae865dca026f12-with-play.gif">
-    </a>
-</div>
+<img src='codepath_ios_record.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](https://www.cockos.com/licecap/) for Mac
 
 ## App Brainstorming (Step 4)
 - Discord
