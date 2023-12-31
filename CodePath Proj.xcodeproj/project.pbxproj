@@ -13,6 +13,7 @@
 		CE3750EA2B41751C004C7E98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3750E82B41751C004C7E98 /* Main.storyboard */; };
 		CE3750EC2B417520004C7E98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3750EB2B417520004C7E98 /* Assets.xcassets */; };
 		CE3750EF2B417520004C7E98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3750ED2B417520004C7E98 /* LaunchScreen.storyboard */; };
+		CE3750F72B41FC89004C7E98 /* project0_readme_template.md in Resources */ = {isa = PBXBuildFile; fileRef = CE3750F62B41FC89004C7E98 /* project0_readme_template.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE3750EB2B417520004C7E98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE3750EE2B417520004C7E98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE3750F02B417520004C7E98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE3750F62B41FC89004C7E98 /* project0_readme_template.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = project0_readme_template.md; path = ../../Downloads/project0_readme_template.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		CE3750D62B41751C004C7E98 = {
 			isa = PBXGroup;
 			children = (
+				CE3750F62B41FC89004C7E98 /* project0_readme_template.md */,
 				CE3750E12B41751C004C7E98 /* CodePath Proj */,
 				CE3750E02B41751C004C7E98 /* Products */,
 			);
@@ -58,10 +61,10 @@
 			children = (
 				CE3750E22B41751C004C7E98 /* AppDelegate.swift */,
 				CE3750E42B41751C004C7E98 /* SceneDelegate.swift */,
+				CE3750ED2B417520004C7E98 /* LaunchScreen.storyboard */,
 				CE3750E62B41751C004C7E98 /* ViewController.swift */,
 				CE3750E82B41751C004C7E98 /* Main.storyboard */,
 				CE3750EB2B417520004C7E98 /* Assets.xcassets */,
-				CE3750ED2B417520004C7E98 /* LaunchScreen.storyboard */,
 				CE3750F02B417520004C7E98 /* Info.plist */,
 			);
 			path = "CodePath Proj";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE3750EF2B417520004C7E98 /* LaunchScreen.storyboard in Resources */,
+				CE3750F72B41FC89004C7E98 /* project0_readme_template.md in Resources */,
 				CE3750EC2B417520004C7E98 /* Assets.xcassets in Resources */,
 				CE3750EA2B41751C004C7E98 /* Main.storyboard in Resources */,
 			);
